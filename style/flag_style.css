@@ -37,3 +37,13 @@
     top: 90%;
     border-top-right-radius: 30px;
 }
+
+.flag-footer{
+    height: 50px;
+    width: 80px;
+    background-color: black;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%);
+}
